@@ -1,0 +1,6 @@
+[submodule "aaa"]
+	path = aaa
+	url = https://github.com/capcsdi2/aaa.git
+[submodule "ccc"]
+	path = ccc
+	url = https://github.com/capcsdi2/ccc.git
